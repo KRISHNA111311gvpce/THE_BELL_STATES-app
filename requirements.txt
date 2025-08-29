@@ -1,0 +1,11 @@
+streamlit
+ecdsa
+plotly
+pandas
+numpy
+qrcode[pil]
+qiskit
+qiskit-ibm-runtime
+qiskit-aer
+cryptography
+pillow
